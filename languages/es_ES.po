@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: My Chatbot Agency Chat\n"
+"POT-Creation-Date: 2019-03-28 20:53+0100\n"
+"PO-Revision-Date: 2019-03-28 20:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: MCA.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: MCA.php:30
+msgid "MCA Settings"
+msgstr "MCA configuración"
+
+#: MCA.php:99
+msgid "Connected with My Chatbot Agency."
+msgstr "Conectado con My Chatbot Agency."
+
+#: MCA.php:101
+msgid "You can now use the chat and the automation tool!"
+msgstr ""
+"Ya puedes usar el chat en tu sitio y la herramienta de automatización !"
+
+#: MCA.php:101
+msgid "My Chatbot Agency."
+msgstr "My Chatbot Agency."
+
+#: MCA.php:102
+msgid "Configuration"
+msgstr "Configuración"
+
+#: MCA.php:104
+msgid "Messaging"
+msgstr "Mensajería"
+
+#: MCA.php:107
+msgid ""
+"You like My Chatbot Agency <b style=\"color:red\">♥</b> ? Leave us a review "
+"at <a target=\"_blank\" href=\"https://wordpress.org/support/plugin/mca/"
+"reviews/?filter=5\">Wordpress Plugin Directory</a>"
+msgstr ""
+"Te gusta My Chatbot Agency <b style=\"color:red\">♥</b> ? Déjanos un "
+"comentario en nuestro <a target=\"_blank\" href=\"https://wordpress.org/"
+"support/plugin/mca/reviews/?filter=5\">Wordpress Plugin Directory</a>"
+
+#: MCA.php:115
+msgid "Connect with My Chatbot Agency platform."
+msgstr "Conéctate con la plataforma de My Chatbot Agency."
+
+#: MCA.php:118
+msgid ""
+"My Chatbot Agency chat allow you to live speak with your Wordpress website "
+"users and to automate some questions/answers thanks to our FAQBOT tool. "
+"Click the button below to create your account, customize your chat widget "
+"and start saving time with automation!"
+msgstr ""
+"My Chatbot Agency chat te permite de hablar en vivo con los visitores de tu "
+"sitio Wordpress. También puedes automatizar preguntas y respuestas gracias a "
+"nuestra herramienta de FAQBOT. Clickea el botón de abajo para crear tu "
+"cuenta, personalizar tu chat widget y gana tiempo con la automatización !"
+
+#: MCA.php:119
+msgid ""
+"If you click the button, a new page will pop up where you will be able to "
+"create an account. This account is not related to your wordpress account."
+msgstr ""
+"Si haces click en el botón, va a aparecer una nueva página en la cual podrás "
+"crear to cuenta. Esa cuenta no esta relacionada con to cuenta Wordpress."
+
+#: MCA.php:121
+msgid "Connect with My Chatbot Agency platform"
+msgstr "Conéctate con la plataforma de My Chatbot Agency"
+
+#. Plugin Name of the plugin/theme
+msgid "My Chatbot Agency Chat"
+msgstr "My Chatbot Agency Chat"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://mychatbotagency.com/"
+msgstr "https://mychatbotagency.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Add a chat widget to your website to allow you to reply in the best way to "
+"your customers. Automatize the recurrent questions to save time and offer a "
+"24/7 support."
+msgstr ""
+"Añadir una herramienta de chat a tu sitio te permite responder de la mejor "
+"manera a sus visitores. Automatizar las preguntas frecuentes te permite "
+"ganar tiempo y dar un servicio al cliente 24/7."
+
+#. Author of the plugin/theme
+msgid "My Chatbot Agency"
+msgstr "My Chatbot Agency"
+
+#~ msgid "Connect to the My Chatbot Agency platform."
+#~ msgstr "Conectar con la plataforma de My Chatbot Agency."

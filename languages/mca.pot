@@ -1,0 +1,95 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: My Chatbot Agency Chat\n"
+"POT-Creation-Date: 2019-03-28 19:42+0100\n"
+"PO-Revision-Date: 2019-03-28 19:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: MCA.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: MCA.php:30
+msgid "MCA Settings"
+msgstr ""
+
+#: MCA.php:99
+msgid "Connected with My Chatbot Agency."
+msgstr ""
+
+#: MCA.php:101
+msgid "You can now use the chat and automation tool"
+msgstr ""
+
+#: MCA.php:101
+msgid "My Chatbot Agency."
+msgstr ""
+
+#: MCA.php:102
+msgid "Configuration"
+msgstr ""
+
+#: MCA.php:104
+msgid "Messaging"
+msgstr ""
+
+#: MCA.php:107
+msgid ""
+"You like My Chatbot Agency <b style=\"color:red\">♥</b> ? Leave us a comment "
+"in <a target=\"_blank\" href=\"https://wordpress.org/support/plugin/mca/"
+"reviews/?filter=5\">Wordpress Plugin Directory</a>"
+msgstr ""
+
+#: MCA.php:115
+msgid "Connect to the My Chatbot Agency platform."
+msgstr ""
+
+#: MCA.php:118
+msgid ""
+"My Chatbot Agency chat allow you to live speak with your Wordpress website "
+"users and to automate some questions/answers thanks to our FAQBOT tool. "
+"Click the button below to create your account, customize your chat widget "
+"and start saving time with automation!"
+msgstr ""
+
+#: MCA.php:119
+msgid ""
+"Clicking the button, a new page will open where you will be able to create "
+"an account. This account is wordpress account's independant."
+msgstr ""
+
+#: MCA.php:121
+msgid "Connect with My Chatbot Agency platform"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "My Chatbot Agency Chat"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://mychatbotagency.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Ajouter notre outil de chat à votre site vous permet d'automatiser des "
+"questions réponses et ainsi apporter un support 24/7 à vos clients mais "
+"également reprendre la main pour les questions plus pointues."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "My Chatbot Agency"
+msgstr ""
